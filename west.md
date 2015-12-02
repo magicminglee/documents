@@ -9,3 +9,4 @@
 **图解分布式一致性协议Paxos**<http://codemacro.com/2014/10/15/explain-poxos/></br>
 **阿里核心系统团队博客**<http://csrd.aliapp.com/?p=162></br>
 **Howto: Memcached replication = Repcached**<http://blackbird.si/articles/general-administration/databases/></br>
+**可靠分布式系统基础 Paxos 的直观解释**<http://drmingdrmer.github.io/></br>
