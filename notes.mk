@@ -1,0 +1,2 @@
+=====基于自带的boost以及openssl库编译bitcoin
+LD_LIBRARY_PATH=/home/magicminglee/bitcoin/boost/lib:/home/magicminglee/game_dev/External/openssl/lib BOOST_CPPFLAGS=-I/home/magicminglee/bitcoin/boost/include/ PKG_CONFIG_PATH=/home/magicminglee/game_dev/External/openssl/lib/pkgconfig:/home/magicminglee/game_dev/External/libevent/lib/pkgconfig ./configure --disable-wallet --with-boost-libdir=/home/magicminglee/bitcoin/boost/lib
